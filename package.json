@@ -1,0 +1,26 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Alex Buznik cv",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beshur/cv.git"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "json"
+  ],
+  "author": "Alex Buznik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beshur/cv/issues"
+  },
+  "homepage": "https://github.com/beshur/cv#readme"
+}

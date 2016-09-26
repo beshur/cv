@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "Alex Buznik",
+    "label": "Web Developer at AB Soft",
+    "picture": "",
+    "email": "shu@buznik.net",
+    "phone": "+380506944620",
+    "website": "http://buznik.net/",
+    "summary": "Specialty: Front-end development (4+ years).Favourite tools and technologies: Sass, Twitter Bootstrap, Backbone.js, Grunt.js, node.js Express.Also have experience with: Meteor.js, PHP (Yii, Laravel), Wordpress, jQuery.Want to learn: Angular.js, React.js.Please contact me directly (email, skype), not through LinkedIn.Areas of interest: design, robots, space exploration.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "AB Soft",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2016-02-01",
+      "endDate": "current",
+      "summary": "Node.js, electron.js",
+      "highlights": []
+    },
+    {
+      "company": "Comodo",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2014-07-01",
+      "endDate": "2016-01-01",
+      "summary": "Working on a smart home project.Front-end and back-end development of a web-portal from scratch.Technologies and libraries used: Backbone.js, jQuery, Twitter Bootstrap, Websockets, Node.js (Express), MongoDB, proprietary internal APIs.Design and implementation of REST and JSON-RPC APIs.Manual deployment, using Grunt.js and bash scripts.",
+      "highlights": []
+    },
+    {
+      "company": "Beetroot Resources",
+      "position": "Front-end developer",
+      "website": "",
+      "startDate": "2013-06-01",
+      "endDate": "2014-07-01",
+      "summary": "Front-end:- Creating web-applications from scratch using Twitter Bootstrap, jQuery, Backbone.js and Angular.js.Back-end:- Coding web-applications using PHP frameworks Yii and Laravel.UX:- Prototyping and design using Photoshop and Balsamiq.",
+      "highlights": []
+    },
+    {
+      "company": "Cooper.ua",
+      "position": "Front-end developer",
+      "website": "",
+      "startDate": "2012-09-01",
+      "endDate": "2013-06-01",
+      "summary": "Front-end coding, jQuery, pixel-perfect PSD2HTML, web-design.A series of projects were completed including e-commerce and promotional web-sites.",
+      "highlights": []
+    },
+    {
+      "company": "TemplateMonster.com",
+      "position": "web-master",
+      "website": "",
+      "startDate": "2011-09-01",
+      "endDate": "2012-09-01",
+      "summary": "Front-End development, content management.",
+      "highlights": []
+    },
+    {
+      "company": "Kiselev",
+      "position": "Junior Designer",
+      "website": "",
+      "startDate": "2011-07-01",
+      "endDate": "2011-07-01",
+      "summary": "Logo design, web-design",
+      "highlights": []
+    },
+    {
+      "company": "free-lance design",
+      "position": "Web-developer and designer",
+      "website": "",
+      "startDate": "2007-09-01",
+      "endDate": "2011-09-01",
+      "summary": "Working as a free-lance designer (web-sites, logos, prints).Complete web-site development using Wordpress and self-made engines.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kyiv National Economics University",
+      "area": "",
+      "studyType": "Bachelor",
+      "startDate": "2007-01-01",
+      "endDate": "2011-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Graphic Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Coding Standards",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Interface Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Yii",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "laravel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SASS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SVN",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Github",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON-RPC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backbone.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cross-browser Compatibility",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GruntJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Require.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
