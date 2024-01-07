@@ -9,55 +9,58 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_avatar: "true"
+resume_name: "Alex Buznik"
+resume_title: "Senior Front-End Engineer, Team leader"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email: "shu@buznik.net"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone: "555-7334"
+resume_contact_address: ""
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info: ""
+display_header_contact_info: "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Software engineer based in Bulgaria with more than 12 years of experience in web development.</p>
+<p>Main focus area: front-end, also involved with React Native and node.js.</p>
+<p>Has led a small development team, conducted user interviews, propelled the projects from ideation to release.</p>
+<p>In my free time: Arduino, 3D-printing, traveling.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work: "hide"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_experience: true
+resume_section_education: true
+resume_section_projects: true
+resume_section_skills: false
+resume_section_recognition: false
+resume_section_links: false
+resume_section_associations: true
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url: "https://github.com/beshur"
+  #resume_twitter_url: "http://twitter.com/jglovier"
+  #resume_dribbble_url: "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url: "https://www.linkedin.com/in/alexbuznik/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
+  resume_website_url: "https://buznik.net/"
+  calendar_url: "https://calendar.app.google/pLEf2f1hGMEM5mqt5"
+  #resume_medium_url: "https://medium.com/@jglovier"
+resume_print_social_links: true
 
 # Design settings
-resume_theme:                   default
-
+resume_theme: default
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts

@@ -1,16 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Bulgarian passport bot
+  role: Founder & Developer
+  duration: 2019 &mdash; Present
+  url: "https://botservices.wixsite.com/amibulgarianyet"
+  description: A Telegram/Viber bot that helps propspects for Bulgarian citizenship to monitor their application status. The bot is used by more than 5000 people and is free. Built from scratch using node.js express and MySQL.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: StoPlay Chrome Extension
+  role: Co-Founder & Developer
+  duration: 2014 &mdash; Present
+  url: "https://stoplay.github.io/"
+  description: A free Google Chrome extension to stop/play music playing in web-browser via popular streaming services. Was made before browsers had this feature built-in and is open-source. The extension is used by around 300 people daily.

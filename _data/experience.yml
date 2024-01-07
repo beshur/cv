@@ -1,19 +1,35 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Wildix s.r.l.
+  position: Senior Front-End Engineer and team leader
+  duration: Dec, 2020 &mdash; Present
+  summary: "Building a B2B messenger and calls project as a web and a mobile React Native app. Leading a small team and delivering features from ideation to release.<p>Technologies used: React, React Native, redux, Material-UI, AWS Lambda, Typescript, jest, Cypress.<br/>Other tools: figma, gitlab.</p>"
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: DI.FM
+  position: Senior Front-End Engineer
+  duration: Nov 2018 &mdash; Dec 2020
+  summary: "Multiple web apps development, uincluding the flagship DI.FM web-site.<br/>Support and revamp of existing features.<br/>Collaboration inside a small distributed team.<br/>Technologies used: Marionette.js, Backbone, coffeescript, Ruby-on-Rails."
 
+- company: RingCentral
+  position: Senior Web Engineer
+  duration: Feb 2016 &mdash; Nov 2018
+  summary: "Web app development for a high-load active project with tens of thousands of customers (chat software for companies). Front-end, API design and backend development. Also development of a desktop Electron app. Working with other teams distributed around the world. Performing code-reviews and technical design discussions. Volunteering to create and improve internal development tools. Technologies used: Backbone, Grunt, Node.js, electron.js, websockets, WebRTC git. Other tools: Jenkins, Linux, Docker."
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Comodo Inc.
+  position: Web Developer
+  duration: Jul 2014 &mdash; Jan 2016
+  summary: "Working on a smart home project. Front-end and back-end development of a web-portal from scratch. Design and implementation of REST and JSON-RPC APIs. Manual deployment, using Grunt.js and bash scripts. Technologies and libraries used: Backbone.js, jQuery, Twitter Bootstrap, Websockets, Node.js (Express), MongoDB, proprietary internal APIs."
+
+- company: Beetroot.se
+  position: Web-developer
+  duration: Jun 2013 &mdash; Jul 2014
+  summary: "Creating web-applications from scratch using Twitter Bootstrap, jQuery, Backbone.js, Angular.js, Grunt.js, SASS. Coding back-end using PHP frameworks Yii and Laravel. Prototyping UX and design using Photoshop and Balsamiq."
+
+- company: Cooper.ua
+  position: Front-end developer
+  duration: Sep 2012 &mdash; Jun 2013
+  summary: "Intensive front-end coding, pixel-perfect, PSD2HTML of complex UX and UI. Completed a series of projects including e-commerce and corporate web-sites. Mostly HTML, CSS/SASS, Javascript, jQuery."
+
+- company: TemplateMonster.com
+  position: Web-developer
+  duration: Sep 2011 &mdash; Sep 2012
+  summary: "Front-end development, content management. HTML, CSS, Javascript, PHP."
